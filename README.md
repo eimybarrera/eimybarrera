@@ -58,6 +58,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/eimybarrera/eimybarrera/output/snake.svg" alt="Snake animation" />
+
 
 ###
